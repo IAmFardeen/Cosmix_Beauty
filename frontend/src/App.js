@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <p>Welcome to the cosmix beauty</p>
+    <h1>Welcome to the cosmix beauty</h1>
   )
 }
 
